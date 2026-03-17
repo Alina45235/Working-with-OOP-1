@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1758719107 source:c:\users\Алина\desktop\ООП\лаба 1\прога codeblocks разделенная\1\triangle.cpp
+	"Triangle.h"
+
+1758716282 c:\users\Алина\desktop\ООП\лаба 1\прога codeblocks разделенная\1\triangle.h
+	<iostream>
+	<cmath>
+	<algorithm>
+
+1758719668 source:c:\users\Алина\desktop\ООП\лаба 1\прога codeblocks разделенная\1\main.cpp
+	"Triangle.h"
+	<locale>
+
+1758719107 source:c:\users\алина\desktop\ооп\лаба 1\прога codeblocks разделенная\1\triangle.cpp
+	"Triangle.h"
+
+1758716282 c:\users\алина\desktop\ооп\лаба 1\прога codeblocks разделенная\1\triangle.h
+	<iostream>
+	<cmath>
+	<algorithm>
+
